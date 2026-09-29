@@ -1,4 +1,4 @@
-package ALGODAT.tryLinkedList_meet5;
+package tryLinkedList_meet5;
 
 public class Main {
     public static void main (String[]args){
