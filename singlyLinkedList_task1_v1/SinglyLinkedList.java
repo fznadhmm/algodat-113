@@ -1,4 +1,4 @@
-package singlyLinkedList_task1;
+package singlyLinkedList_task1_v1;
 
 public class SinglyLinkedList {
     NodeNode head = null;
